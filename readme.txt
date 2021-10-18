@@ -1,1 +1,1 @@
-create a new branch is quik.
+create a new branch is quik and simple.
